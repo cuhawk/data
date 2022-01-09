@@ -1,0 +1,7 @@
+\\192.168.49.75\visualstudio\Lat\Lat\bin\x64\Release\Lat.exe.config
+\\192.168.49.75\visualstudio\Lat\Lat\bin\x64\Release\Lat.exe
+\\192.168.49.75\visualstudio\Lat\Lat\bin\x64\Release\Lat.pdb
+\\192.168.49.75\visualstudio\Lat\Lat\obj\x64\Release\Lat.csprojAssemblyReference.cache
+\\192.168.49.75\visualstudio\Lat\Lat\obj\x64\Release\Lat.csproj.CoreCompileInputs.cache
+\\192.168.49.75\visualstudio\Lat\Lat\obj\x64\Release\Lat.exe
+\\192.168.49.75\visualstudio\Lat\Lat\obj\x64\Release\Lat.pdb

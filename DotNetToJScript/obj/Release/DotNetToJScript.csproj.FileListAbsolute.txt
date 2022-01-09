@@ -1,0 +1,10 @@
+\\192.168.49.75\visualstudio\DotNetToJScript\bin\Release\DotNetToJScript.exe
+\\192.168.49.75\visualstudio\DotNetToJScript\bin\Release\DotNetToJScript.pdb
+\\192.168.49.75\visualstudio\DotNetToJScript\bin\Release\NDesk.Options.dll
+\\192.168.49.75\visualstudio\DotNetToJScript\obj\Release\DotNetToJScript.csprojAssemblyReference.cache
+\\192.168.49.75\visualstudio\DotNetToJScript\obj\Release\DotNetToJScript.Properties.Resources.resources
+\\192.168.49.75\visualstudio\DotNetToJScript\obj\Release\DotNetToJScript.csproj.GenerateResource.cache
+\\192.168.49.75\visualstudio\DotNetToJScript\obj\Release\DotNetToJScript.csproj.CoreCompileInputs.cache
+\\192.168.49.75\visualstudio\DotNetToJScript\obj\Release\DotNetToJScript.csproj.CopyComplete
+\\192.168.49.75\visualstudio\DotNetToJScript\obj\Release\DotNetToJScript.exe
+\\192.168.49.75\visualstudio\DotNetToJScript\obj\Release\DotNetToJScript.pdb

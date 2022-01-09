@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "3ea46d9da3423959",
+    "type": "split",
+    "children": [
+      {
+        "id": "1af5fc8d1e6d2d4e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Modules/Combining.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "19998abc76e4932d",
+    "type": "split",
+    "children": [
+      {
+        "id": "27bb8e668b89dba8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f8c28f8ec6294ee",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2ff8172176ad321a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 294
+  },
+  "right": {
+    "id": "30a694a9aaa66344",
+    "type": "split",
+    "children": [
+      {
+        "id": "8dd2cb88fe301a7a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4899a7baa25f6bd9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Modules/Combining.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1af5fc8d1e6d2d4e",
+  "lastOpenFiles": [
+    "Modules/Combining.md",
+    "Labs/Lab 2/Untitled.md",
+    "Labs/Lab 4/Notes.md",
+    "Labs/Lab 2/Notes.md",
+    "Labs/Lab 1/Notes.md",
+    "Modules/Module 3/3.6.4.1.md",
+    "References/Windows/PWSH RSCR.md",
+    "References/Windows/TestClass.md",
+    "References/Linux/Creds.md",
+    "References/Linux/Meterpreter.md"
+  ]
+}

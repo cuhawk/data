@@ -1,0 +1,9 @@
+\\192.168.49.75\visualstudio\ConsoleApp2\ConsoleApp2\bin\x64\Release\ConsoleApp2.exe.config
+\\192.168.49.75\visualstudio\ConsoleApp2\ConsoleApp2\bin\x64\Release\ConsoleApp2.exe
+\\192.168.49.75\visualstudio\ConsoleApp2\ConsoleApp2\bin\x64\Release\ConsoleApp2.pdb
+\\192.168.49.75\visualstudio\ConsoleApp2\ConsoleApp2\bin\x64\Release\System.Management.Automation.dll
+\\192.168.49.75\visualstudio\ConsoleApp2\ConsoleApp2\obj\x64\Release\ConsoleApp2.csprojAssemblyReference.cache
+\\192.168.49.75\visualstudio\ConsoleApp2\ConsoleApp2\obj\x64\Release\ConsoleApp2.csproj.CoreCompileInputs.cache
+\\192.168.49.75\visualstudio\ConsoleApp2\ConsoleApp2\obj\x64\Release\ConsoleApp2.csproj.CopyComplete
+\\192.168.49.75\visualstudio\ConsoleApp2\ConsoleApp2\obj\x64\Release\ConsoleApp2.exe
+\\192.168.49.75\visualstudio\ConsoleApp2\ConsoleApp2\obj\x64\Release\ConsoleApp2.pdb

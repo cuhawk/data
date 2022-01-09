@@ -1,0 +1,7 @@
+\\192.168.49.75\visualstudio\RemoteShinjectLowlevel\RemoteShinjectLowlevel\bin\Debug\RemoteShinjectLowlevel.exe.config
+\\192.168.49.75\visualstudio\RemoteShinjectLowlevel\RemoteShinjectLowlevel\bin\Debug\RemoteShinjectLowlevel.exe
+\\192.168.49.75\visualstudio\RemoteShinjectLowlevel\RemoteShinjectLowlevel\bin\Debug\RemoteShinjectLowlevel.pdb
+\\192.168.49.75\visualstudio\RemoteShinjectLowlevel\RemoteShinjectLowlevel\obj\Debug\RemoteShinjectLowlevel.csprojAssemblyReference.cache
+\\192.168.49.75\visualstudio\RemoteShinjectLowlevel\RemoteShinjectLowlevel\obj\Debug\RemoteShinjectLowlevel.csproj.CoreCompileInputs.cache
+\\192.168.49.75\visualstudio\RemoteShinjectLowlevel\RemoteShinjectLowlevel\obj\Debug\RemoteShinjectLowlevel.exe
+\\192.168.49.75\visualstudio\RemoteShinjectLowlevel\RemoteShinjectLowlevel\obj\Debug\RemoteShinjectLowlevel.pdb

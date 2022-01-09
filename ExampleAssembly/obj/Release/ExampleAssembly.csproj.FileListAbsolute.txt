@@ -1,0 +1,6 @@
+\\192.168.49.75\visualstudio\ExampleAssembly\bin\Release\ExampleAssembly.dll
+\\192.168.49.75\visualstudio\ExampleAssembly\bin\Release\ExampleAssembly.pdb
+\\192.168.49.75\visualstudio\ExampleAssembly\obj\Release\ExampleAssembly.csprojAssemblyReference.cache
+\\192.168.49.75\visualstudio\ExampleAssembly\obj\Release\ExampleAssembly.csproj.CoreCompileInputs.cache
+\\192.168.49.75\visualstudio\ExampleAssembly\obj\Release\ExampleAssembly.dll
+\\192.168.49.75\visualstudio\ExampleAssembly\obj\Release\ExampleAssembly.pdb
